@@ -130,6 +130,8 @@
     <ClCompile Include="2024_04_25_Homework.cpp" />
     <ClCompile Include="Q1_Q2Template.cpp" />
     <ClCompile Include="Q5Vector.cpp" />
+    <ClCompile Include="Q6Bit_Operations.cpp" />
+    <ClCompile Include="Q7Flag.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
