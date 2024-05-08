@@ -18,7 +18,10 @@
     <ClCompile Include="2024_04_25_Homework.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="Q1_Q2.cpp">
+    <ClCompile Include="Q1_Q2Template.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5Vector.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

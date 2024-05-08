@@ -1,0 +1,32 @@
+//#include <iostream>
+//#include <vector>
+//using namespace std;
+//
+//void Show(vector<string> members) 
+//{
+//	for (auto iterator = members.begin(); iterator != members.end(); ++iterator)
+//	{
+//		cout << *iterator << ", ";
+//	}
+//
+//	cout << endl;
+//}
+//
+//int main()
+//{
+//	vector<string> members = {"ë∫âz", "âÕìá", "ã‡éq", "é·ó—", "‰wçË"};
+//
+//	Show(members);
+//
+//	members.pop_back();
+//
+//	Show(members);
+//
+//	members.resize(1);
+//
+//	Show(members);
+//
+//	members.push_back("ïxâi");
+//
+//	Show(members);
+//}
