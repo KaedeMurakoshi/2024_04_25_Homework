@@ -5,9 +5,9 @@
 //{
 //	int evenNum = 0b10;
 //
-//	for (int i = 0; i < 10; ++i)
+//	while(evenNum <= 1024)
 //	{
 //		cout << evenNum << endl;
-//		(evenNum <<= 1);
+//		evenNum <<= 1;
 //	}
 //}
